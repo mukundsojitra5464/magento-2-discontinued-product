@@ -1,0 +1,9 @@
+This module demonstrates how to add a custom linked product type, like crosssell, upsell, related products.
+
+It is working for Magento 2.1.13 or above.
+
+Special thanks go to https://github.com/dheesbeen, he improved this module by adding frontend functionality.
+
+website: 
+        http://techjeffyu.com
+
